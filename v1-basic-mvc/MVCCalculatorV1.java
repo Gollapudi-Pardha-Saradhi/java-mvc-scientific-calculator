@@ -1,4 +1,3 @@
-v1-basic-mvc/MVCCalculatorV1.java
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
