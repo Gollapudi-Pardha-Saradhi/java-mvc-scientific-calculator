@@ -1,5 +1,4 @@
-v2-advanced-scientific/MVCCalculatorV2.java
-  import javax.swing.*;
+import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
